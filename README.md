@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashish Sharma
+- 👋 Hi, I’m Ashish
 - 👀 I’m interested in contributing on GITHUB 
 - 🌱 I’m currently learning REACT AND MOBILE DEVELOPMENT USING REACT NATIVE.
 - 💞️ I’m looking to collaborate on OPEN SOURCE
