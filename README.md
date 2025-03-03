@@ -2,7 +2,7 @@
 - 👀 I’m interested in contributing on GITHUB 
 - 🌱 I’m currently learning REACT AND MOBILE DEVELOPMENT USING REACT NATIVE.
 - 💞️ I’m looking to collaborate on OPEN SOURCE
-- 📫 How to reach me ...  aashieshsharama.email@gmail.com
+- 📫 How to reach me ...  ashish.sharma75.email@gmail.com
 - ⚡ Fun fact: ... there's no fun fact. it's always struggle and finding happiness while struggling...
 
 <!---
